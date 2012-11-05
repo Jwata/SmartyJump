@@ -1,0 +1,1 @@
+../plugin/smarty-jump.vim
